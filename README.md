@@ -19,15 +19,15 @@
       </p>
     </td>
 
-    <!-- COLUNA DA DIREITA: Foto, Badges e Estatísticas (Substitua os links/usuários) -->
+    <!-- COLUNA DA DIREITA: Foto, Badges e Estatísticas -->
     <td width="45%" align="center" valign="top">
-      <!-- Sua Foto -->
+      <!-- Sua Foto (Cole o link direto da sua foto no lugar de URL_DA_SUA_FOTO_AQUI) -->
       <img src="URL_DA_SUA_FOTO_AQUI" width="100%" style="border-radius: 8px;" alt="Mirelly Foto"/>
 
       <br><br>
 
       <!-- Badges de Redes Sociais -->
-      <a href="https://www.linkedin.com/in/mirelly-oliveira-nunes-342699391 ">
+      <a href="https://www.linkedin.com/in/mirelly-oliveira-nunes-342699391">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
       <a href="mailto:MirellyO.Nunes@gmail.com">
@@ -39,13 +39,13 @@
 
       <br><br>
 
-      <!-- Contador de Views (Substitua SEU_USUARIO pelo seu nome de usuário do GitHub) -->
+      <!-- Contador de Views -->
       <img src="https://komarev.com/ghpvc/?username=Mirell1&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
       <br><br>
 
-      <!-- Card de Estatísticas do GitHub (Substitua SEU_USUARIO pelo seu usuário) -->
+      <!-- Card de Estatísticas do GitHub -->
       <img src="https://github-readme-stats.vercel.app/api?username=Mirell1&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
   </tr>
-</table>
+</table> <!-- <--- ADICIONADO AQUI O FECHAMENTO DA TABELA -->
